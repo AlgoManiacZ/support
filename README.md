@@ -51,7 +51,7 @@ Welcome to AlgoManiacZ where anyone interested in DSA and competitive coding can
 >   
 > 2. Click on the people header or click [here](https://github.com/orgs/AlgoManiacZ/people) : <br>
 >   
-> <img width="221" alt="people" src="images/people2.PNG"> <br>
+> <img width="221" alt="people" src="images/people2.png"> <br>
 >   
 > 3. Enter your github username in the searchbar: <br>
 >   
