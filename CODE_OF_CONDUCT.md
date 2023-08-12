@@ -1,8 +1,4 @@
-# Design and Code Community - Code of Conduct  
-
-## Our Mission  
-
-An inclusive community where we together can learn, grow, build, share, network & experience various aspects of Hackathon & Technology which in turn can help us all solve the shared struggles of the society.
+# AlgoManiacZ Community - Code of Conduct  
 
 ## TL;DR
 
@@ -46,5 +42,3 @@ In case any community members violate or ignore the Code of Conduct, the communi
 
 If you have witnessed or experienced any of the above points or anything else as well which makes you feel unsafe or uncomfortable, please straight away report it to the Founder/ Moderators:
 
-- [Design and Code](https://discord.gg/druweDMn3s)
-- designandcode.community@gmail.com
