@@ -2,7 +2,7 @@
 
 ## TL;DR
 
-Be respectful. Abuse & Harassment are not at all tolerated. If you are in a situation that makes you uncomfortable or unsafe in our community by means of members, leaders, or any other person, please report it using the steps included in this document.
+Be respectful. Abuse & Harassment are not at all tolerated. If you are in a situation that makes you uncomfortable or unsafe in our community by means of members, leaders, or any other person, please report it using the steps included in this documents.
 
 This code of conduct shall be applicable on all spaces where our community exists or get involved which includes all the communication platforms, social media, talks, events, collaborations, etc.
 
